@@ -8,8 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      space
+    text: >+
+      # KOSUMOSU Digitaluhr 3D LED Wanduhr 9.7 Zoll, Tischuhr Großes Display
+      Digitale Wanduhr Schreibtischuhr mit Fernbedienung 12/24H Temperatur
+      (Weißes Licht)
+
+
+
+
+
     actions:
       - type: Link
         label: Buy now
