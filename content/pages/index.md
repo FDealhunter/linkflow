@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/main-hero.svg
+      url: /images/Screenshot 2024-11-27 190643.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
