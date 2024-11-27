@@ -132,7 +132,7 @@ sections:
       - type: Link
         label: Instagram
         altText: Instagram
-        url: ''
+        url: 'https://www.instagram.com/linkflow4?igsh=MWJpa2VubzJ4eHNnNg=='
         showIcon: true
         icon: instagram
         iconPosition: left
