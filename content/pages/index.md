@@ -127,9 +127,7 @@ sections:
       text: Social Media
       color: text-dark
     subtitle: check my socials
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - type: Link
         label: Instagram
