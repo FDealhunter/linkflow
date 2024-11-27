@@ -138,6 +138,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: https//www.instagramm.com/linkflow4?igsh=MWJpa2VubzJeHNnNg==
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero2.svg
