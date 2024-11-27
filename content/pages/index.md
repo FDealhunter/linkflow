@@ -124,7 +124,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Social Media
       color: text-dark
     subtitle: Increase your reach
     text: >
