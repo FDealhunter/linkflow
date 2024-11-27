@@ -132,13 +132,6 @@ sections:
       posts.
     actions:
       - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Link
         label: Instagram
         altText: Instagram
         url: https//www.instagramm.com/linkflow4?igsh=MWJpa2VubzJeHNnNg==
