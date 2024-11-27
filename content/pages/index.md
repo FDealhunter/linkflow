@@ -11,15 +11,6 @@ sections:
     text: |
       space
     actions:
-      - label: See Tutorial
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - type: Link
         label: Buy now
         altText: Buy now
