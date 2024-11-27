@@ -67,7 +67,7 @@ sections:
         flexDirection: row-reverse
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Teppeich
       color: text-dark
   - type: ImageGallerySection
     subtitle: ''
