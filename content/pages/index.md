@@ -7,7 +7,7 @@ sections:
       text: Clock
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: |
       space
     actions:
