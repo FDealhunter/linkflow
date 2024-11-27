@@ -67,7 +67,7 @@ sections:
         flexDirection: row-reverse
     title:
       type: TitleBlock
-      text: Teppeich
+      text: Teppich
       color: text-dark
   - type: ImageGallerySection
     subtitle: ''
