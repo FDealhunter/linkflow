@@ -23,7 +23,7 @@ sections:
       - type: Link
         label: Buy now
         altText: Buy now
-        url: /
+        url: 'https://amzn.to/4fJY5dv'
         showIcon: true
         icon: shoppingBag
         iconPosition: left
