@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Clock
+      text: Uhr
       color: text-dark
       type: TitleBlock
     subtitle: ''
