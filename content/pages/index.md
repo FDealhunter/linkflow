@@ -73,7 +73,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Screenshot 2024-11-27 190704.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
