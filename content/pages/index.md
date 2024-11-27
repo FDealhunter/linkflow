@@ -141,7 +141,7 @@ sections:
       - type: Link
         label: Tiktok
         altText: Play
-        url: tiktok.com/@linkflow4u
+        url: t
         showIcon: true
         icon: play
         iconPosition: right
