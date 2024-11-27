@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: 'https://amzn.to/3ZohbAa'
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
