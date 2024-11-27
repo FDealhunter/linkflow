@@ -140,7 +140,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/file-PgKKXZxjCkJDuJ99g9VREJ.webp
       altText: Fun feature preview
     badge:
       type: Badge
