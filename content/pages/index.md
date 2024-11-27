@@ -8,7 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: ''
+    text: |
+      space
     actions:
       - label: See Tutorial
         altText: ''
