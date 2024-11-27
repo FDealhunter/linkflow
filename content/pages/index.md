@@ -41,9 +41,21 @@ sections:
           - pr-16
   - type: GenericSection
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+
+
+
+
+
+      # MZYZPPBD 8 Ball Teppich Simulation Billard 8 ball rug Rund Tufting Weich
+      Billiard Teppich Anti-Rutsch Badematte Kinder Schlafzimmer Schwarz 8 Ball
+      Rug für Wohnzimmer Dekoration,A,60\*60cm/23.6\*23.6inch
+
+
+
+
+
     actions:
       - type: Link
         label: Buy now
