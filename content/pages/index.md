@@ -22,6 +22,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: /
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
