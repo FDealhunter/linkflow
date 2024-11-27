@@ -11,19 +11,7 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
-        {
-            "type": "Link",
-            "label": "Instagram",
-            "altText": "Instagram",
-            "url": "/",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
