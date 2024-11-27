@@ -138,15 +138,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - type: Link
-        label: Tiktok
-        altText: Play
-        url: t
-        showIcon: true
-        icon: play
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/file-PgKKXZxjCkJDuJ99g9VREJ.webp
