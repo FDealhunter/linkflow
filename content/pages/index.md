@@ -139,7 +139,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Play
+        label: Tiktok
         altText: Play
         url: tiktok.com/@linkflow4u
         showIcon: true
