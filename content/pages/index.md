@@ -65,6 +65,10 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: ImageGallerySection
     subtitle: ''
     images:
