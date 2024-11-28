@@ -72,7 +72,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Kaffeetassenwärmer
       color: text-dark
     subtitle: ''
     text: >
