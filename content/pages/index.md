@@ -69,35 +69,6 @@ sections:
       type: TitleBlock
       text: Teppich
       color: text-dark
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Kaffeetassenwärmer
-      color: text-dark
-    subtitle: ''
-    text: >+
-      ##### Kaffeetassenwärmer mit 15 W kabellosem Ladegerät, automatischer
-      Abschaltung und Aufladen über USB-A, 3-in-1-Tassenwärmer, Kerzenwärmer,
-      Telefonhalter, 3 Temperatureinstellungen
-
-    actions:
-      - type: Link
-        label: Buy now
-        altText: Buy now
-        url: 'https://amzn.to/3B1f2Bb'
-        showIcon: true
-        icon: shoppingBag
-        iconPosition: left
-        style: secondary
-        elementId: ''
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
