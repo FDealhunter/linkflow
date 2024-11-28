@@ -86,6 +86,15 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
+        label: Buy now
+        altText: Buy now
+        url: /
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
         label: See Tutorials
         url: /
         showIcon: true
