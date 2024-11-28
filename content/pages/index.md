@@ -120,7 +120,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Screenshot 2024-11-28 182214.png
       altText: Fun feature preview
     badge:
       type: Badge
