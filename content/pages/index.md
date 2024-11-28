@@ -80,13 +80,6 @@ sections:
       businesses.
     actions:
       - type: Link
-        label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Link
         label: Buy now
         altText: Buy now
         url: 'https://amzn.to/4i8eSIY'
