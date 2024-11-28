@@ -108,14 +108,6 @@ sections:
 
       ##### 63,19€
 
-
-
-
-
-      ##### 
-
-
-
     actions:
       - type: Button
         label: Get started
