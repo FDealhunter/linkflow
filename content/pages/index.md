@@ -126,6 +126,32 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Umbrella humidifier
+      color: text-dark
+    subtitle: ''
+    text: "##### Black Friday -5\_%\_ \n\n##### 32,28€\n\n\n\n"
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: 'https://amzn.to/3B3wu83'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Screenshot 2024-11-28 215407.png
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
