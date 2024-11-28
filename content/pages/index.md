@@ -72,7 +72,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Kaffeetassenwärmer
+      text: Cup warmer
       color: text-dark
     subtitle: ''
     text: "Black Friday -19\_%\n\n\_29,19€\n\n"
