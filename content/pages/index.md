@@ -75,9 +75,17 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      ##### Kaffeetassenwärmer mit 15 W kabellosem Ladegerät, automatischer
+      Abschaltung und Aufladen über USB-A, 3-in-1-Tassenwärmer, Kerzenwärmer,
+      Telefonhalter, 3 Temperatureinstellungen
+
+
+      #####
+
+
+      #####
+
     actions:
       - type: Link
         label: Buy now
