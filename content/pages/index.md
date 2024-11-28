@@ -42,9 +42,9 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: |+
-      #####  8 Ball Rug  Dekoration,A,60\*60cm/23.6\*23.6inch
+      ##### 8 Ball Rug  Dekoration,A,60\*60cm/23.6\*23.6inch
 
-
+      18,88€
 
     actions:
       - type: Link
