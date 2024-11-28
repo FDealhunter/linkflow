@@ -92,7 +92,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/1000034229.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
