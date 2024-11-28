@@ -97,6 +97,35 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: LED Panels
+      color: text-dark
+    subtitle: ''
+    text: "##### 20 Pcs Hexagon LED Panels\n\n#####  Black Friday-20\_%\n\n63,19€\n\n"
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: 'https://amzn.to/49fTjSD'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Screenshot 2024-11-28 182214.png
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
