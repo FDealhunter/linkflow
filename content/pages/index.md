@@ -149,6 +149,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: 'https://amzn.to/3B3wu83'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Screenshot 2024-11-28 215407.png
