@@ -4,14 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Uhr
+      text: Clock
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      ##### KOSUMOSU Digitaluhr 3D LED Wanduhr 9.7 Zoll, Tischuhr Großes Display
-      Digitale Wanduhr Schreibtischuhr mit Fernbedienung 12/24H Temperatur
-      (Weißes Licht)
+    text: |+
+      ##### 3D LED Wallclock  9.7 Zoll
+
+      ##### 21,98€
+
+
 
     actions:
       - type: Link
@@ -41,10 +43,10 @@ sections:
           - pr-16
   - type: GenericSection
     subtitle: ''
-    text: >+
-      ##### MZYZPPBD 8 Ball Teppich Simulation Billard 8 ball rug Rund Tufting
-      Weich Billiard Teppich Anti-Rutsch Badematte Kinder Schlafzimmer Schwarz 8
-      Ball Rug für Wohnzimmer Dekoration,A,60\*60cm/23.6\*23.6inch
+    text: |+
+      ##### 8 Ball Rug  Dekoration,A,60\*60cm/23.6\*23.6inch
+
+      18,88€
 
     actions:
       - type: Link
@@ -67,50 +69,34 @@ sections:
         flexDirection: row-reverse
     title:
       type: TitleBlock
-      text: Teppich
+      text: Carpet
       color: text-dark
-  - type: ImageGallerySection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Cup warmer
+      color: text-dark
     subtitle: ''
-    images:
-      - type: ImageBlock
-        altText: Empathy logo
+    text: "Black Friday -19\_%\n\n\_29,19€\n\n"
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: 'https://amzn.to/4i8eSIY'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
         elementId: ''
-      - type: ImageBlock
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: static
+    media:
+      type: ImageBlock
+      url: /images/Screenshot 2024-11-28 172055.png
+      altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
       self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
+        alignItems: center
+        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -136,15 +122,6 @@ sections:
         showIcon: true
         icon: instagram
         iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: Tiktok
-        altText: Play
-        url: tiktok.com/@linkflow4u
-        showIcon: true
-        icon: play
-        iconPosition: right
         style: secondary
         elementId: ''
     media:
