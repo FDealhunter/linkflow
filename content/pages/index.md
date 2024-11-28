@@ -103,11 +103,7 @@ sections:
       text: LED Panels
       color: text-dark
     subtitle: ''
-    text: |+
-      ##### 20 Pcs Hexagon LED Panels
-
-      ##### 63,19€
-
+    text: "##### 20 Pcs Hexagon LED Panels\n\n#####  Black Friday-20\_%\n\n63,19€\n\n"
     actions:
       - type: Link
         label: Buy now
