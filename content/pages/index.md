@@ -100,7 +100,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: LED Panels
       color: text-dark
     subtitle: ''
     text: |+
