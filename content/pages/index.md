@@ -149,10 +149,6 @@ sections:
       type: ImageBlock
       url: /images/Screenshot 2024-11-28 215407.png
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
