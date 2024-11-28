@@ -11,6 +11,10 @@ sections:
     text: |+
       ##### 3D LED Wallclock  9.7 Zoll
 
+      ##### 21,98€
+
+
+
     actions:
       - type: Link
         label: Buy now
