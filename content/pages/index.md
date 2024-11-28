@@ -129,7 +129,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Umbrella humidifier
       color: text-dark
     subtitle: ''
     text: >
