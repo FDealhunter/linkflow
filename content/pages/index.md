@@ -9,9 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |+
-      #####  3D LED Wallclock
-
-      #####  9.7 Zoll
+      ##### 3D LED Wallclock  9.7 Zoll
 
     actions:
       - type: Link
