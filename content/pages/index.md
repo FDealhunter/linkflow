@@ -75,9 +75,7 @@ sections:
       text: Kaffeetassenwärmer
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: "Black Friday -19\_%\n\n\_29,19€\n\n"
     actions:
       - type: Link
         label: Buy now
