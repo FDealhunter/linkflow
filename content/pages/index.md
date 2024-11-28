@@ -80,12 +80,6 @@ sections:
       Abschaltung und Aufladen über USB-A, 3-in-1-Tassenwärmer, Kerzenwärmer,
       Telefonhalter, 3 Temperatureinstellungen
 
-
-      #####
-
-
-      #####
-
     actions:
       - type: Link
         label: Buy now
