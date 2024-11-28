@@ -67,7 +67,7 @@ sections:
         flexDirection: row-reverse
     title:
       type: TitleBlock
-      text: Teppich
+      text: Carpet
       color: text-dark
   - type: GenericSection
     title:
