@@ -175,6 +175,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: 'https://amzn.to/418L7BC'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero3.svg
