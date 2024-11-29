@@ -158,9 +158,11 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |+
+      ##### 49,99€
+
+
+
     actions:
       - type: Link
         label: Buy now
