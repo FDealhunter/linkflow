@@ -163,13 +163,6 @@ sections:
       businesses.
     actions:
       - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Link
         label: Buy now
         altText: Buy now
         url: 'https://amzn.to/418L7BC'
