@@ -173,7 +173,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Screenshot 2024-11-29 170707.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
