@@ -152,6 +152,36 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: LED Chimney
+      color: text-dark
+    subtitle: ''
+    text: |+
+      ##### 49,99€
+
+
+
+    actions:
+      - type: Link
+        label: Buy now
+        altText: Buy now
+        url: 'https://amzn.to/418L7BC'
+        showIcon: true
+        icon: shoppingBag
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Screenshot 2024-11-29 170707.png
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
