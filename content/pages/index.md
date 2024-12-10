@@ -132,7 +132,11 @@ sections:
       text: Umbrella humidifier
       color: text-dark
     subtitle: ''
-    text: "##### Black Friday -5\_%\_ \n\n##### 32,28€\n\n\n\n"
+    text: |+
+      #####
+
+      ##### 32,28€
+
     actions:
       - type: Link
         label: Buy now
