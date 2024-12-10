@@ -133,7 +133,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |+
-      #####
+
 
       ##### 32,28€
 
