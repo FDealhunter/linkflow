@@ -77,7 +77,7 @@ sections:
       text: Cup warmer
       color: text-dark
     subtitle: ''
-    text: "Black Friday -19\_%\n\n\_29,19€\n\n"
+    text: "\n\n\_29,19€\n"
     actions:
       - type: Link
         label: Buy now
@@ -103,7 +103,10 @@ sections:
       text: LED Panels
       color: text-dark
     subtitle: ''
-    text: "##### 20 Pcs Hexagon LED Panels\n\n#####  Black Friday-20\_%\n\n63,19€\n\n"
+    text: |
+      ##### 20 Pcs Hexagon LED Panels
+
+      63,19€
     actions:
       - type: Link
         label: Buy now
@@ -132,7 +135,11 @@ sections:
       text: Umbrella humidifier
       color: text-dark
     subtitle: ''
-    text: "##### Black Friday -5\_%\_ \n\n##### 32,28€\n\n\n\n"
+    text: |+
+
+
+      ##### 32,28€
+
     actions:
       - type: Link
         label: Buy now
