@@ -77,7 +77,7 @@ sections:
       text: Cup warmer
       color: text-dark
     subtitle: ''
-    text: "Black Friday -19\_%\n\n\_29,19€\n\n"
+    text: "\n\n\_29,19€\n"
     actions:
       - type: Link
         label: Buy now
